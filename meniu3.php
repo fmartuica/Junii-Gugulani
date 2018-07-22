@@ -5,7 +5,7 @@
 
 </head>
 <title> 
-Ansamblul Junii Gugulani
+The ensemble Junii Gugulani
 </title>
 <style>
 
