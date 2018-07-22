@@ -28,7 +28,7 @@ The ensemble Junii Gugulani
     background: #FF0000; 
 }
 </style>
-<h1 align=center>Ansamblul<br> „Junii Gugulani”</h1><hr align=center size=2% color=#FF0000>
+<h1 align=center>The ensemble<br> „Junii Gugulani”</h1><hr align=center size=2% color=#FF0000>
   
  <style align=center>
 .container {
