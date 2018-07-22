@@ -5,7 +5,7 @@
 <title>
 Ansamblul Junii Gugulani
 </title>
-<marquee direction="left" behavior="alternate"> <h1 align=center> Asociația Culturală „Junii Gugulani”</h1></marquee><hr size=2% color=black width=95%></hr>
+<marquee direction="left" behavior="alternate"> <h1 align=center> The Cultural Association „Junii Gugulani”</h1></marquee><hr size=2% color=black width=95%></hr>
 <body background="pentru site 2.png">
 <center><img alt=""  src="Stema Junii Gugulani 3.png"width="450" height="500"></center><br>
 <br>
