@@ -66,15 +66,15 @@ function timer() {
 timer();
 
 
-/* Start button */
+
 start.onclick = timer;
 
-/* Stop button */
+
 stop.onclick = function() {
     clearTimeout(t);
 }
 
-/* Clear button */
+
 clear.onclick = function() {
     h1.textContent = "00:00:00";
     seconds = 0; minutes = 0; hours = 0;
@@ -172,7 +172,7 @@ clear.onclick = function() {
           type="submit" value="Submit" />
     </div>
   
-<!--show only wrong answers on submit-->
+
     <div class="quizAnswers" id="correctAnswer1"></div>
 	    <div class="quizAnswers" id="correctAnswer2"></div>
     <div class="quizAnswers" id="correctAnswer3"></div>
@@ -180,7 +180,7 @@ clear.onclick = function() {
 
 
 
-<!--show score upon submit-->
+
     <div>
     	<h2 class="quizScore" id="userScore"></h2>
     </div>
