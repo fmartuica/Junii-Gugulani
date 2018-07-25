@@ -29,8 +29,6 @@ input[type=submit] {
     cursor: pointer;
 }
 
-
-
 div {
     border-radius: 5px;
     background-color: #f2f2f2;
@@ -38,9 +36,6 @@ div {
 }
 </style>
 <body>
-
-
-
 
   <div class="container">
   <form method="post" action="mailto:flavius_martuica@yahoo.com">
