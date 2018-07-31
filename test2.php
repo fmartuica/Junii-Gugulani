@@ -15,26 +15,12 @@
   padding: 0px 38px;
 }
 </style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <body>
 
 <div id="div1" class="fa"></div>
 
-<script>
-function hourglass() {
-  var a;
-  a = document.getElementById("div1");
-  a.innerHTML = "&#xf251;";
-  setTimeout(function () {
-      a.innerHTML = "&#xf252;";
-    }, 1000);
-  setTimeout(function () {
-      a.innerHTML = "&#xf253;";
-    }, 2000);
-}
-hourglass();
-setInterval(hourglass, 3000);
-</script>
+
 
 <h1><time>00:00:00</time></h1>
 <script>
